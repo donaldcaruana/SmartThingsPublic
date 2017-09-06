@@ -8,7 +8,7 @@ metadata {
 		capability "Switch"
 		capability "Refresh"
 	}
-}
+}//so what
 //add a line up here
 //End of file
 //Next line 
