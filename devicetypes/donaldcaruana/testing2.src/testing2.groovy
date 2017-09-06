@@ -13,4 +13,3 @@ metadata {
 def ping() {
 	refresh()
 }
-
