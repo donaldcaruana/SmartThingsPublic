@@ -9,9 +9,4 @@ metadata {
 		capability "Refresh"
 	}
 }
-
-// added some just to see
-
-def ping() {
-	refresh()
-}
+//End of file
